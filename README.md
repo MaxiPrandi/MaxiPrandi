@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Max Developer</a> 👋</h1>
 </div> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+MaX+Developer+⭐;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&weight=700&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+MaX+Developer;" />
 </h1>
 
 <img src="./img/banner-mp.png">
@@ -14,7 +14,7 @@
 
 <div align="center"> 
   <a href="mailto:maxdeveloper.mp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" classname="mx-2" />
   </a>
   <a href="https://www.linkedin.com/in/maximiliano-prandi-2a677223b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
