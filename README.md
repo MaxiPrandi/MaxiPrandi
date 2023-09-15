@@ -37,7 +37,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br/>
 
-<h2 align="center">⭐ My Proyectsttttt ⭐</h2><br/>
+<h2 align="center">⭐ My Proyects ⭐</h2><br/>
 <br/><br/>
 <table>
 <tr>
