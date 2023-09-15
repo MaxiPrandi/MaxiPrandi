@@ -35,10 +35,10 @@
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+<br/>
 
-<h2 align="center">⭐ My Proyects ⭐</h2>
-<br/><br/><br/>
+<h2 align="center">⭐ My Proyects ⭐</h2><br/>
+<br/><br/>
 <table>
 <tr>
 <td width="50%">
