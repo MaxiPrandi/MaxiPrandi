@@ -11,7 +11,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield) -->
-
+<br/>
 <div align="center"> 
   <a href="mailto:maxdeveloper.mp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"  />
