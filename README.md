@@ -27,7 +27,7 @@
  <hr/>
 
 
-## Sobre mi
+## About me
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
@@ -37,7 +37,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br/>
 
-<h2 align="center">⭐ My Proyects ⭐</h2><br/>
+<h2 align="center">⭐ My Proyects ⭐</h2>
 <br/><br/>
 <table>
 <tr>
