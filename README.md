@@ -38,6 +38,7 @@
 <br>
 
 <h2 align="center">⭐ My Proyects ⭐</h2>
+<br><br>
 <table>
 <tr>
 <td width="50%">
@@ -100,14 +101,14 @@
 <br><br>
 <div align="center">
   <h2>🚀 My Contributions 🚀</h2>
-  <br>
+  <br><br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <h2 align="center">⚙ Stats ⚙</h2>
-
+<br><br>
 <p align="center">
 <a href="https://github.com/MaxiPrandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaxiPrandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
