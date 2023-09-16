@@ -44,13 +44,13 @@
 <td width="50%">
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
+<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
 <p><br/>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
+<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Sitio web E-comerce de Comics<strong> MARVEL</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MondoDB, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos.</p>
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://nature-tunes.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Site-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Sitio web E-comerce de productos de Sonido de la firma <strong> NATURE TUNES</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MYSQL, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos..</p>
