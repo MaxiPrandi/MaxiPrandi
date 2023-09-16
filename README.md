@@ -80,7 +80,7 @@
 <table>
 <tr>
 <td width="100%">
-<h3 align="center">BERR SHOP</h3>
+<h3 align="center">BEER SHOP</h3>
 <div align="center">
 <a href=""https://beer-front-utn.vercel.app/" target="_blank"><img src="./img/beer.png" width="400"  height="200" alt="BEER"></a>
 <p>
