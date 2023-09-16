@@ -104,10 +104,10 @@
 
 <br/>
 <div align="center">
-<h1>🔽🔽🔽</h1>
-<a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
+<h1>🔽<a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
 <img src="https://img.shields.io/badge/SEE  ALL  PROYECTS-ff9?style=for-the-badge&logoColor=blackfor-the-badge&color=5121D0">
-</a>
+</a>🔽</h1>
+
 </div>
 </div>
 <br><br>
