@@ -44,7 +44,7 @@
 <td width="50%">
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Curso básico android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">Nature Tunes</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="./img/naturetunes.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/MaxiPrandi/NatureTunes" target="_blank"><img src="./img/naturetunes.png" width="400" height="200" alt="Nature tunes"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
