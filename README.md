@@ -45,7 +45,7 @@
 <td width="100%">
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
-<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="50%" alt="Marvel Shop"style="border:1px solid black"></a>
+<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="50%" alt="Marvel Shop" style="border:2px solid red"></a>
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&for-the-badge&color=0080FF">
