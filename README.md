@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
-<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=0B0B61">
 </a>
 </p>
 <p>Sitio web E-comerce de Comics<strong> MARVEL</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MondoDB, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos.</p>
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>&nbsp;&nbsp;
 <a href="https://beer-front-utn.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-SITE-red?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
