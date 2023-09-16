@@ -58,7 +58,9 @@
 </div>
 </td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td width="100%">
 <h3 align="center">Nature Tunes</h3>
@@ -75,13 +77,12 @@
 </p>
 </p>Sitio web E-comerce de productos de Sonido de la firma <strong> NATURE TUNES</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MYSQL, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos..</p>
 </div>                                                             
-<!-- </table>                                                                                  -->
 </div>
 </td>
 </tr>
+</table>
 
-
-<!-- <table> -->
+<table>
 <tr>
 <td width="100%">
 <h3 align="center">BEER SHOP</h3>
@@ -99,7 +100,6 @@
 </div>
 </td>                                                    
 </tr>
-
 </table>                                                                                 
 
 </div>
