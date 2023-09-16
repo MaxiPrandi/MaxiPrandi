@@ -40,6 +40,7 @@
 <h2 align="center">⭐ My Proyects ⭐</h2>
 <br/><br/>
 <table>
+
 <tr>
 <td width="100%">
 <h3 align="center">Marvel Shop 🤖</h3>
@@ -55,15 +56,14 @@
 </p>
 <p>Sitio web E-comerce de Comics<strong> MARVEL</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MondoDB, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos.</p>
 </div>
-
 </td>
 </tr>
-<tr>
 
+<tr>
 <td width="100%">
 <h3 align="center">Nature Tunes</h3>
 <div align="center">                                       
-<a href="https://nature-tunes.vercel.app/" target="_blank"><img src="./img/naturetunes.png" width="400" height="200" alt="Nature tunes"></a>
+<a href="https://nature-tunes.vercel.app/" target="_blank"><img src="./img/naturetunes.png" width="400" height="50%" alt="Nature tunes"></a>
 <br><br/>
 <p>
 <a href="https://github.com/MaxiPrandi/NatureTunes" target="_blank">
@@ -79,7 +79,7 @@
 </div>
 </td>
 </tr>
-<br>
+
 
 <!-- <table> -->
 <tr>
@@ -97,9 +97,11 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
-                                                                                      
 </td>                                                    
+</tr>
+
 </table>                                                                                 
+
 </div>
 <br><br>
 <div align="center">
