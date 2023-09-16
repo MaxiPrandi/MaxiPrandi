@@ -62,7 +62,7 @@
 <h3 align="center">Nature Tunes</h3>
 <div align="center">                                       
 <a href="https://github.com/MaxiPrandi/NatureTunes" target="_blank"><img src="./img/naturetunes.png" width="400" height="200" alt="Nature tunes"></a>
-<br>
+<br><br/>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
