@@ -48,7 +48,7 @@
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=fbfc40">
 </a>
@@ -66,7 +66,7 @@
 <p>
 <a href="https://github.com/MaxiPrandi/NatureTunes" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://nature-tunes.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=3fFD7f">
 </a>
@@ -86,9 +86,9 @@
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://beer-front-utn.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-SITE-blue?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-SITE-red?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
