@@ -41,7 +41,7 @@
 <br/><br/>
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
@@ -58,7 +58,7 @@
 
 </td>
 
-<td width="50%">
+<td width="100%">
 <h3 align="center">Nature Tunes</h3>
 <div align="center">                                       
 <a href="https://nature-tunes.vercel.app/" target="_blank"><img src="./img/naturetunes.png" width="400" height="200" alt="Nature tunes"></a>
@@ -99,14 +99,14 @@
 </div>
 <br><br>
 <div align="center">
-  <h2>🚀 My Contributions 🚀</h2>
+  <h2>🚀 Contributions 🚀</h2>
   <br><br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<h2 align="center">⚙ Stats ⚙</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br><br>
 <p align="center">
 <a href="https://github.com/MaxiPrandi">
