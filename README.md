@@ -47,7 +47,7 @@
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&for-the-badge&color=0B0B61">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&for-the-badge&color=0080FF">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=0B0B61">
