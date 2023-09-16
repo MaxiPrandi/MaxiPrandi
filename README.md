@@ -83,12 +83,12 @@
 <h3 align="center">BEER SHOP</h3>
 <div align="center">
 <a href=""https://beer-front-utn.vercel.app/" target="_blank"><img src="./img/beer.png" width="400"  height="200" alt="BEER"></a>
-<p>
+<p><br/>
 <a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://beer-front-utn.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/-SITE-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-SITE-blue?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
