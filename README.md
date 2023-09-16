@@ -105,7 +105,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
-<img src="https://img.shields.io/badge/MORE PROYECTS-ff9?style=for-the-badge&logo=windows&logoColor=blackfor-the-badge&color=DF1010">
+<img src="https://img.shields.io/badge/MORE PROYECTS 🔷-ff9?style=for-the-badge&logo=windows&logoColor=blackfor-the-badge&color=DF1010">
 </a>
 </div>
 </div>
