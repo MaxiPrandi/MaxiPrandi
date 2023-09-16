@@ -45,7 +45,7 @@
 <td width="100%">
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
-<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
+<a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank"><img src="./img/marvel.png" width="400" height="50%" alt="Marvel Shop"></a>
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Marvel-Shop" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&for-the-badge&color=0080FF">
@@ -87,7 +87,7 @@
 <td width="100%">
 <h3 align="center">BEER SHOP</h3>
 <div align="center">
-<a href=""https://beer-front-utn.vercel.app/" target="_blank"><img src="./img/beer.png" width="400"  height="200" alt="BEER"></a>
+<a href=""https://beer-front-utn.vercel.app/" target="_blank"><img src="./img/beer.png" width="400"  height="50%" alt="BEER"></a>
 <p><br/>
 <a href="https://github.com/MaxiPrandi/Beer-FrontUtn" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
