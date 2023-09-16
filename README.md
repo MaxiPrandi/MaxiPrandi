@@ -53,13 +53,12 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Sitio web E-comerce de Comics<strong>MARVEL</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MondoDB, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos.</p>
+<p>Sitio web E-comerce de Comics<strong> MARVEL</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MondoDB, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos.</p>
 </div>
-                                                                                      
+
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Nature Tunes</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="./img/naturetunes.png" width="400" alt="Curso arquitectura MVVM"></a>
@@ -72,7 +71,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Sitio web E-comerce de productos de Sonido de la firma <strong> NATURE TUNES</strong> -  Aplicacion totalmente funcional, con base de datos Creada en MYSQL, tanto para administrar usuarios, como los productos en venta. Contiene carro de Compras y es totalmente responsivo para todas los dispositivos..</p>
 </div>                                                             
 </table>                                                                                 
 </div>
