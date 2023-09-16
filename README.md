@@ -45,7 +45,7 @@
 <h3 align="center">Marvel Shop 🤖</h3>
 <div align="center">
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="./img/marvel.png" width="400" height="200" alt="Marvel Shop"></a>
-<p>
+<p><br/>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
